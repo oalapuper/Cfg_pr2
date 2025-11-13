@@ -1,0 +1,2 @@
+package_name,repo_url,test_mode,ascii_tree,max_depth
+Newtonsoft.Json,https://www.nuget.org/packages/AutoMapper,false,false,3
